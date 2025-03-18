@@ -4,25 +4,25 @@ A Python-based AI assistant that responds to voice commands and performs various
 
 #Features
 
-Displays time in 12-hour format
+1.Displays time in 12-hour format
 
-Greets users
+2.Greets users
 
-Searches Wikipedia
+3.Searches Wikipedia
 
-Opens common applications (Google, YouTube, etc.)
+4.Opens common applications (Google, YouTube, etc.)
 
-Plays music by song or artist name
+5.Plays music by song or artist name
 
-Tells jokes
+6.Tells jokes
 
-Opens system applications (Calendar, Calculator, Weather, Notepad, CMD, Settings, Camera)
+7.Opens system applications (Calendar, Calculator, Weather, Notepad, CMD, Settings, Camera)
 
-Opens Microsoft applications (Maps, Photos, Outlook Mail, Microsoft Store, Xbox, Microsoft Edge)
+8.Opens Microsoft applications (Maps, Photos, Outlook Mail, Microsoft Store, Xbox, Microsoft Edge)
 
-Resumes YouTube videos
+9.Resumes, pauses and controls YouTube videos
 
-Exits on command
+10.Exits on command
 
 
 #How to Use
